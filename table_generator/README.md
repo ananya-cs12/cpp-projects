@@ -9,17 +9,16 @@ A simple program that prints the multiplication table of a given number from 1 t
 - Modular structure using a function.
 
 ## Sample Output
-==== Multiplication Table Generator ====
-Enter a number: 5
-
-Multiplication Table for 5:
-5 * 1 = 5
-5 * 2 = 10
-5 * 3 = 15
-5 * 4 = 20
-5 * 5 = 25
-5 * 6 = 30
-5 * 7 = 35
-5 * 8 = 40
-5 * 9 = 45
+==== Multiplication Table Generator ====<br>
+Enter a number: 5<br>
+Multiplication Table for 5:<br>
+5 * 1 = 5<br>
+5 * 2 = 10<br>
+5 * 3 = 15<br>
+5 * 4 = 20<br>
+5 * 5 = 25<br>
+5 * 6 = 30<br>
+5 * 7 = 35<br>
+5 * 8 = 40<br>
+5 * 9 = 45<br>
 5 * 10 = 50
