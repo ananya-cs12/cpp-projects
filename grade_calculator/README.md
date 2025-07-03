@@ -13,3 +13,6 @@ A basic C++ program that calculates your grade (A–F) based on the percentage y
 - Validates user input and gives error for invalid values
 
 ## Sample Output
+==== Grade Calculator ====<br>
+Enter your grade percentage (0 - 100): 99<br>
+You got a grade: A
