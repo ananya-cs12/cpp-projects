@@ -8,10 +8,10 @@ A simple password checker program that allows the user up to 3 attempts to enter
 - Limits to 3 attempts, then denies access
 
 ## Sample Output
-==== Password Checker ====
-Enter password: hello123
-Incorrect password. Try again.
-Enter password: admin
-Incorrect password. Try again.
-Enter password: Admin123
+==== Password Checker ====<br>
+Enter password: hello123<br>
+Incorrect password. Try again.<br>
+Enter password: admin<br>
+Incorrect password. Try again.<br>
+Enter password: Admin123<br>
 Access granted!
