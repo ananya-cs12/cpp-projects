@@ -13,11 +13,11 @@ A beginner-friendly calculator program written in C++ that performs basic arithm
 - Validates division by zero
 - Uses functions to keep the code clean and modular
 
-## 🧪 Sample Output
-==== Simple Calculator ====
-Enter first number: 20
-Enter second number: 4
-Enter operator (+, -, *, /): /
-Dividing numbers...
+##  Sample Output
+==== Simple Calculator ====<br>
+Enter first number: 20<br>
+Enter second number: 4<br>
+Enter operator (+, -, *, /): /<br>
+Dividing numbers...<br>
 Result: 5
 
