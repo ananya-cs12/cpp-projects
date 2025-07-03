@@ -12,15 +12,3 @@ A simple and beginner-friendly C++ program that counts down from a given number 
 - Easy to read, easy to modify
 
 
-## Sample Input & Output
-==== Countdown Timer ====
-
-- Enter time in seconds: 5
-- Time left: 5 seconds
-- Time left: 4 seconds
-- Time left: 3 seconds
-- Time left: 2 seconds
-- Time left: 1 second
-- Time left: 0 seconds
-- Time's up!
-
