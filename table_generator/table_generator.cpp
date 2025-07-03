@@ -16,7 +16,7 @@ int main() {
     cout << "Enter a number: ";
     cin >> n;
 
-    // Input validation (optional)
+
     if (n == 0) {
         cout << "Table of 0 will only give 0s. Try a non-zero number." << endl;
     } else {
