@@ -10,7 +10,7 @@ This repository contains a collection of beginner-friendly C++ programs that dem
 
 | Project Name | Description | Folder |
 |--------------|-------------|--------|
-| Simple Calculator | Performs basic arithmetic operations (+, -, *, /) with error handling | [`simple_calculator`](simple_calculator) |
+| Simple Calculator | Performs basic arithmetic operations (+, -, *, /) with error handling | [`simple_calculator`](Simple_calculator) |
 | Table Generator | Prints the multiplication table for a given number (1–10) | [`table_generator`](table_generator) |
 | Grade Calculator | Outputs grade (A–F) based on percentage entered by user | [`grade_calculator`](grade_calculator) |
 | Password Guessing Game | Keeps asking for a password until correct one is entered (3 tries max) | [`password_guessing_game`](password_guessing_game) |
