@@ -1,0 +1,60 @@
+What is the size of int in C++?
+a)2bytes
+b)4bytes
+c)8bytes
+d)Depends on compiler
+b
+Which of the following is a valid variable name?
+a)1stVariable
+b)variable-1
+c)variable_1
+d)variable 1
+c
+What is the output of: int x = 5; cout << x++;
+a)Compilation error
+b)6
+c)5
+d)Runtime error
+c
+Which keyword is used to declare a constant?
+a)const
+b)static
+c)final
+d)immutable
+a
+What is the purpose of the 'new' keyword?
+a)Define a new function
+b)Declare a new variable
+c)Create a class
+d)Allocate memory dynamically
+d
+What is the default value of an uninitialized int variable in C++?
+a)0
+b)Garbage value
+c)-1
+d)1
+b
+Which loop is guaranteed to run at least once?
+a)for loop
+b)while loop
+c)do-while loop
+d)infinite loop
+c
+Which header file is needed for 'cout'?
+a)stdio.h
+b)cstdio
+c)iostream
+d)conio.h
+c
+What is the extension of a C++ source file?
+a).c
+b).cpp
+c).java
+d).py
+b
+Which operator is used for pointer dereferencing?
+a)&
+b)*
+c)->
+d)%
+b
