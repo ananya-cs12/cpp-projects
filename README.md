@@ -18,6 +18,7 @@ Perfect for learning & showcasing basic logic, loops, conditionals, and function
 | Countdown Timer           | Counts down from a given number of seconds to zero                    | [timer](./timer)                                                      |
 | Number Guessing Game      | A game where you guess a randomly chosen number in a random range     | [Number_guessing](./Number_guessing)                                  |
 | Student Record Management | Add, search, update, and delete student records using file handling   | [Student_Record_management](./Student_Record_management)                  |
+| Quiz Game   | Loads questions from a file, takes user input, and calculates the final score    | [Quiz_game](./Quiz_game)           |
 
 ---
 
