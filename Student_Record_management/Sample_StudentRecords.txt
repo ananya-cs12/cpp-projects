@@ -1,0 +1,4 @@
+101	Ananya	CS	98	95	96
+102	Manya	ECE	98	99	84
+103	Tara	IT	95	91	93
+104	Tanvi	IT	95	90	94
