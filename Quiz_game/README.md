@@ -9,7 +9,6 @@ A console-based quiz game built in C++ that reads questions from a file and test
 - Reads questions from an external `.txt` file (no hardcoding)
 - User can choose to attempt **5 or 10 questions**
 - Calculates total score and displays result at the end
-- Encouraging feedback messages based on score
 - Simple, structured, and beginner-friendly file I/O logic
 
 ---
