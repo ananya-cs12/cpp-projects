@@ -65,5 +65,4 @@ Enter your choice: 3<br>
 Exiting the program.<br>
 Thank you for using the Expense Tracker!<br>
 
-<p align="center"><b>Built by Ananya Singh</b></p> ```
 
