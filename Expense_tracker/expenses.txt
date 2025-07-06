@@ -1,0 +1,11 @@
+           Date                Type    Amount
+     01/06/2025           Groceries      1250
+     02/06/2025            Bus Fare        45
+     02/06/2025          Stationery       230
+     03/06/2025       Online Course       499
+     03/06/2025     Mobile Recharge       149
+     04/06/2025           Breakfast        85
+     04/06/2025        Movie Ticket       320
+     05/06/2025            Clothing      1899
+     05/06/2025        Library Fine        50
+     06/06/2025              Coffee        75
