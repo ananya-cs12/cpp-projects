@@ -20,6 +20,7 @@ Perfect for learning & showcasing basic logic, loops, conditionals, and function
 | Student Record Management | Add, search, update, and delete student records using file handling           | [Student_Record_management](./Student_Record_management)           |
 | Quiz Game                 | Loads questions from a file, takes user input, and calculates the final score | [Quiz_game](./Quiz_game)                                           |
 | BMI Calculator            | Calculates BMI using user weight & height, with health classification         | [BMI_calculator](./BMI_calculator)                                 |
+| Expense Tracker           | Add and view daily expenses saved to a file using file handling    | [Expense_tracker](./Expense_tracker)|
 
 ---
 
