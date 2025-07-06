@@ -18,7 +18,7 @@ A beginner-friendly C++ project that allows you to **add** and **view** your dai
 All expense entries are saved in a plain text file:<br>
 expenses.txt<br>
 Example format:<br>
-      Date                Type    Amount<br>
+Date                    Type        Amount<br>
  01/07/2025           Groceries     350.00<br>
  03/07/2025          Electricity   1200.50<br>
  
@@ -34,7 +34,6 @@ Please select an option from the menu.<br>
 3. Exit<br>
 ----------------------------------------<br>
 Enter your choice: 1<br>
-
 Enter date (DD/MM/YYYY): 05/07/2025<br>
 Enter type of expense: Stationery<br>
 Enter amount: 120.50<br>
@@ -48,8 +47,7 @@ Please select an option from the menu.<br>
 3. Exit<br>
 ---------------------------------------------<br>
 Enter your choice: 2<br>
-                                              
-           Date             Type       Amount <br>
+   Date                   Type         Amount <br>
 ----------------------------------------------<br>
      01/07/2025         Groceries      300.00<br>
      03/07/2025        Transport        80.00<br>
