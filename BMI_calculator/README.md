@@ -36,4 +36,3 @@ Do you want to calculate again? (Y/N): n<br>
 ------------------------------------------<br>
 Thank you for using the BMI Calculator!
 
-<p align="center"><b>Built by Ananya Singh</b></p> ```
