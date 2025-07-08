@@ -72,3 +72,8 @@ Enter your answer (a/b/c/d): d<br>
 
 ===== QUIZ COMPLETED! =====<br>
 Your final score is: 50/50  
+
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
