@@ -15,3 +15,9 @@ Enter password: admin<br>
 Incorrect password. Try again.<br>
 Enter password: Admin123<br>
 Access granted!
+
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
