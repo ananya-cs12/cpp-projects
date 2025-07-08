@@ -21,6 +21,7 @@ Perfect for learning & showcasing basic logic, loops, conditionals, and function
 | Quiz Game                 | Loads questions from a file, takes user input, and calculates the final score | [Quiz_game](./Quiz_game)                                           |
 | BMI Calculator            | Calculates BMI using user weight & height, with health classification         | [BMI_calculator](./BMI_calculator)                                 |
 | Expense Tracker           | Add and view daily expenses saved to a file using file handling    | [Expense_tracker](./Expense_tracker)|
+|Library Management System | Add, view, search, borrow, and return books with file handling | [Library Management System](./Library_management_system)|
 
 ---
 
