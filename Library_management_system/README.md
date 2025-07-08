@@ -106,6 +106,11 @@ Enter your choice: 5<br>
 Enter the title of the book to return: Ignite Me<br>
 Book returned successfully!
 
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
 
 
 
