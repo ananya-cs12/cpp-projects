@@ -37,3 +37,8 @@ This is a simple Student Record Management System built using C++ and file handl
 4. Modify Record<br>
 5. Delete Record<br>
 6. Exit
+
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
