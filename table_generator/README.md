@@ -22,3 +22,9 @@ Multiplication Table for 5:<br>
 5 * 8 = 40<br>
 5 * 9 = 45<br>
 5 * 10 = 50
+
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
