@@ -22,3 +22,8 @@ Too high! Try again.<br>
 Enter your guess: 53<br>
 You guessed it in 3 attempt(s)! The number was 53.
 
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
