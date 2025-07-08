@@ -21,3 +21,9 @@ Time left: 2 seconds<br>
 Time left: 1 second<br>
 Time left: 0 seconds<br>
 Time's up!
+
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
