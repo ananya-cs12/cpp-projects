@@ -65,4 +65,9 @@ Enter your choice: 3<br>
 Exiting the program.<br>
 Thank you for using the Expense Tracker!<br>
 
+---
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
 
