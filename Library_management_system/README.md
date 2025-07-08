@@ -1,4 +1,4 @@
-# 📚 Library Management System (C++)
+#  Library Management System (C++)
 
 A beginner-friendly console-based C++ project to manage library books — including adding, viewing, searching, borrowing, and returning books — using **file handling** and **simple formatting**.
 
