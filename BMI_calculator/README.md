@@ -35,4 +35,7 @@ You have a underweight.<br>
 Do you want to calculate again? (Y/N): n<br>
 ------------------------------------------<br>
 Thank you for using the BMI Calculator!
+---
+## License
 
+This project is licensed under the [MIT License](./LICENSE).
