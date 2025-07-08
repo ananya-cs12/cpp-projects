@@ -90,7 +90,7 @@ Book borrowed successfully!<br>
 6. Exit<br>
 Enter your choice: 2<br>
 ID   Title                    Author                   Status<br>
---------------------------------------------------------------
+--------------------------------------------------------------<br>
 101  Shatter Me               Tahereh Mafi             Available<br>
 102  Ignite Me                Tahereh Mafi             Borrowed<br>
 103  Haunting Adeline         H.D.Carlton              Available<br>
