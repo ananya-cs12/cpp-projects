@@ -31,4 +31,4 @@ These mini projects focus on:
 - Modular code using functions
 - Simple logic and beginner-level concepts
 
-Feel free to explore, run, or build on these! :)
+
